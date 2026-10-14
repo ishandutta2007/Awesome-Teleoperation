@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Teleoperation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Teleoperation?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Teleoperation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Teleoperation?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Teleoperation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Teleoperation?style=flat-square&logo=github&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Teleoperation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Teleoperation?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Teleoperation/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -73,93 +73,93 @@ A comprehensive comparison of leading SaaS products and enterprise platforms for
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted teleoperation, leader-follower master-slave systems, VR/XR interfaces, and low-latency video streaming pipelines. **Sorted descending by GitHub star count**:
+Curated open-source projects for self-hosted teleoperation, leader-follower master-slave systems, VR/XR interfaces, and low-latency video streaming pipelines. **Sorted descending by GitHub Stars_Count**:
 
-1. **[LeRobot (Hugging Face)](https://github.com/huggingface/lerobot)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social&color=white)](https://github.com/huggingface/lerobot/stargazers)  
+1. **[LeRobot (Hugging Face)](https://github.com/huggingface/lerobot)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social&color=white)](https://github.com/huggingface/lerobot/stargazers)  
    🤖 *State-of-the-art open-source library for real-world robotics and imitation learning by Hugging Face.*  
    Features production-ready teleoperation tools for leader-follower setups (Koch v1.1, SO-100, Franka, ALOHA), real-time camera capture, teleoperated dataset recording, and direct policy deployment with PyTorch.
 
-2. **[Mobile ALOHA](https://github.com/MarkFzp/mobile-aloha)** [![GitHub stars](https://img.shields.io/github/stars/MarkFzp/mobile-aloha?style=social&color=white)](https://github.com/MarkFzp/mobile-aloha/stargazers)  
+2. **[Mobile ALOHA](https://github.com/MarkFzp/mobile-aloha)** [![GitHub_Stars](https://img.shields.io/github/stars/MarkFzp/mobile-aloha?style=social&color=white)](https://github.com/MarkFzp/mobile-aloha/stargazers)  
    🦾 *Low-cost bimanual mobile manipulation framework for learning whole-body robot control.*  
    Provides a complete hardware-software teleoperation system mapping human dual-arm inputs to a mobile robot base, enabling whole-body demonstration collection for complex tasks like cooking and door opening.
 
-3. **[Unitree XR Teleoperate](https://github.com/unitreerobotics/xr_teleoperate)** [![GitHub stars](https://img.shields.io/github/stars/unitreerobotics/xr_teleoperate?style=social&color=white)](https://github.com/unitreerobotics/xr_teleoperate/stargazers)  
+3. **[Unitree XR Teleoperate](https://github.com/unitreerobotics/xr_teleoperate)** [![GitHub_Stars](https://img.shields.io/github/stars/unitreerobotics/xr_teleoperate?style=social&color=white)](https://github.com/unitreerobotics/xr_teleoperate/stargazers)  
    🥽 *Comprehensive XR teleoperation framework for Unitree humanoid robots (H1, G1).*  
    Directly connects VR/MR headsets (Apple Vision Pro, Meta Quest) to humanoid upper bodies and dexterous hands for low-latency whole-body teleoperation and imitation learning demonstration recording.
 
-4. **[Robomimic](https://github.com/ARISE-Initiative/robomimic)** [![GitHub stars](https://img.shields.io/github/stars/ARISE-Initiative/robomimic?style=social&color=white)](https://github.com/ARISE-Initiative/robomimic/stargazers)  
+4. **[Robomimic](https://github.com/ARISE-Initiative/robomimic)** [![GitHub_Stars](https://img.shields.io/github/stars/ARISE-Initiative/robomimic?style=social&color=white)](https://github.com/ARISE-Initiative/robomimic/stargazers)  
    📊 *Standardized framework for robot manipulation learning from human teleoperation demonstrations (Stanford/UT Austin).*  
    Includes multi-device teleoperation interfaces (SpaceMouse, VR controllers, keyboards), demonstration collection pipelines, and benchmarked imitation learning algorithms.
 
-5. **[Open-TeleVision](https://github.com/OpenTeleVision/TeleVision)** [![GitHub stars](https://img.shields.io/github/stars/OpenTeleVision/TeleVision?style=social&color=white)](https://github.com/OpenTeleVision/TeleVision/stargazers)  
+5. **[Open-TeleVision](https://github.com/OpenTeleVision/TeleVision)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenTeleVision/TeleVision?style=social&color=white)](https://github.com/OpenTeleVision/TeleVision/stargazers)  
    👓 *Immersive active visual feedback teleoperation system for humanoid manipulation (CoRL 2024).*  
    Streams stereo RGB video to XR headsets with low-latency active head tracking, allowing operators to teleoperate complex humanoid manipulation with real-time stereoscopic depth perception.
 
-6. **[HumanPlus](https://github.com/MarkFzp/humanplus)** [![GitHub stars](https://img.shields.io/github/stars/MarkFzp/humanplus?style=social&color=white)](https://github.com/MarkFzp/humanplus/stargazers)  
+6. **[HumanPlus](https://github.com/MarkFzp/humanplus)** [![GitHub_Stars](https://img.shields.io/github/stars/MarkFzp/humanplus?style=social&color=white)](https://github.com/MarkFzp/humanplus/stargazers)  
    🕺 *Full-body humanoid shadowing and imitation system (CoRL 2024).*  
    Uses a single RGB camera or VR tracking to teleoperate 33-DoF humanoid robots in real-time, mapping human pose and dexterity directly to humanoid embodiments.
 
-7. **[VisionProTeleop](https://github.com/Improbable-AI/VisionProTeleop)** [![GitHub stars](https://img.shields.io/github/stars/Improbable-AI/VisionProTeleop?style=social&color=white)](https://github.com/Improbable-AI/VisionProTeleop/stargazers)  
+7. **[VisionProTeleop](https://github.com/Improbable-AI/VisionProTeleop)** [![GitHub_Stars](https://img.shields.io/github/stars/Improbable-AI/VisionProTeleop?style=social&color=white)](https://github.com/Improbable-AI/VisionProTeleop/stargazers)  
    🍎 *VisionOS App and Python library from MIT Improbable AI for Apple Vision Pro teleoperation.*  
    Streams high-precision Apple Vision Pro hand tracking and skeletal keypoints over WebSockets/WebRTC to teleoperate robotic arms and dexterous hands with real-time video feedback.
 
-8. **[TWIST](https://github.com/YanjieZe/TWIST)** [![GitHub stars](https://img.shields.io/github/stars/YanjieZe/TWIST?style=social&color=white)](https://github.com/YanjieZe/TWIST/stargazers)  
+8. **[TWIST](https://github.com/YanjieZe/TWIST)** [![GitHub_Stars](https://img.shields.io/github/stars/YanjieZe/TWIST?style=social&color=white)](https://github.com/YanjieZe/TWIST/stargazers)  
    🔄 *Teleoperated Whole-Body Imitation System (CoRL 2025).*  
    Provides master-to-humanoid mapping algorithms and teleoperation infrastructure for dynamic whole-body locomotion and manipulation using commodity VR headsets.
 
-9. **[DexCap](https://github.com/j96w/DexCap)** [![GitHub stars](https://img.shields.io/github/stars/j96w/DexCap?style=social&color=white)](https://github.com/j96w/DexCap/stargazers)  
+9. **[DexCap](https://github.com/j96w/DexCap)** [![GitHub_Stars](https://img.shields.io/github/stars/j96w/DexCap?style=social&color=white)](https://github.com/j96w/DexCap/stargazers)  
    🧤 *Portable and scalable motion capture and teleoperation system for dexterous hand manipulation (RSS 2024).*  
    Uses glove-based tracking and forward kinematics to teleoperate robotic hands and record fine motor demonstrations in unconstrained environments.
 
-10. **[AMO (Adaptive Motion Optimization)](https://github.com/OpenTeleVision/AMO)** [![GitHub stars](https://img.shields.io/github/stars/OpenTeleVision/AMO?style=social&color=white)](https://github.com/OpenTeleVision/AMO/stargazers)  
+10. **[AMO (Adaptive Motion Optimization)](https://github.com/OpenTeleVision/AMO)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenTeleVision/AMO?style=social&color=white)](https://github.com/OpenTeleVision/AMO/stargazers)  
     ⚙️ *Adaptive motion optimization for hyper-dexterous humanoid whole-body teleoperation (RSS 2025).*  
     Compensates for physical embodiment differences between human operators and humanoid robots in real time, optimizing stability and manipulability.
 
-11. **[teleop (SpesRobotics)](https://github.com/SpesRobotics/teleop)** [![GitHub stars](https://img.shields.io/github/stars/SpesRobotics/teleop?style=social&color=white)](https://github.com/SpesRobotics/teleop/stargazers)  
+11. **[teleop (SpesRobotics)](https://github.com/SpesRobotics/teleop)** [![GitHub_Stars](https://img.shields.io/github/stars/SpesRobotics/teleop?style=social&color=white)](https://github.com/SpesRobotics/teleop/stargazers)  
     📱 *WebXR browser-based teleoperation using commodity smartphones and VR headsets.*  
     Runs entirely in the browser using WebXR 6-DoF tracking, transmitting poses via WebRTC/WebSockets to ROS robots without proprietary hardware.
 
-12. **[teleop_twist_keyboard](https://github.com/ros-teleop/teleop_twist_keyboard)** [![GitHub stars](https://img.shields.io/github/stars/ros-teleop/teleop_twist_keyboard?style=social&color=white)](https://github.com/ros-teleop/teleop_twist_keyboard/stargazers)  
+12. **[teleop_twist_keyboard](https://github.com/ros-teleop/teleop_twist_keyboard)** [![GitHub_Stars](https://img.shields.io/github/stars/ros-teleop/teleop_twist_keyboard?style=social&color=white)](https://github.com/ros-teleop/teleop_twist_keyboard/stargazers)  
     ⌨️ *The ubiquitous ROS and ROS 2 keyboard teleoperation node.*  
     Converts keyboard inputs to standard `geometry_msgs/Twist` velocity commands, serving as the foundational teleoperation tool across robotics development.
 
-13. **[BEAVR-Bot](https://github.com/ARCLab-MIT/BEAVR-Bot)** [![GitHub stars](https://img.shields.io/github/stars/ARCLab-MIT/BEAVR-Bot?style=social&color=white)](https://github.com/ARCLab-MIT/BEAVR-Bot/stargazers)  
+13. **[BEAVR-Bot](https://github.com/ARCLab-MIT/BEAVR-Bot)** [![GitHub_Stars](https://img.shields.io/github/stars/ARCLab-MIT/BEAVR-Bot?style=social&color=white)](https://github.com/ARCLab-MIT/BEAVR-Bot/stargazers)  
     🥽 *Bimanual, multi-embodiment, accessible VR teleoperation system developed by MIT ARC Lab.*  
     Features 90Hz hand tracking via Meta Quest 3S (OpenXR standard), modular IK solvers, collision avoidance, and direct export to the Hugging Face LeRobot dataset format.
 
-14. **[teleop_twist_joy](https://github.com/ros-teleop/teleop_twist_joy)** [![GitHub stars](https://img.shields.io/github/stars/ros-teleop/teleop_twist_joy?style=social&color=white)](https://github.com/ros-teleop/teleop_twist_joy/stargazers)  
+14. **[teleop_twist_joy](https://github.com/ros-teleop/teleop_twist_joy)** [![GitHub_Stars](https://img.shields.io/github/stars/ros-teleop/teleop_twist_joy?style=social&color=white)](https://github.com/ros-teleop/teleop_twist_joy/stargazers)  
     🎮 *Generic joystick and gamepad teleoperation node for ROS and ROS 2.*  
     Maps Xbox, PlayStation, and Logitech gamepads to velocity twist messages with deadman safety switches and configurable turbo speed toggles.
 
-15. **[TUM Teleoperated Driving](https://github.com/TUMFTM/teleoperated_driving)** [![GitHub stars](https://img.shields.io/github/stars/TUMFTM/teleoperated_driving?style=social&color=white)](https://github.com/TUMFTM/teleoperated_driving/stargazers)  
+15. **[TUM Teleoperated Driving](https://github.com/TUMFTM/teleoperated_driving)** [![GitHub_Stars](https://img.shields.io/github/stars/TUMFTM/teleoperated_driving?style=social&color=white)](https://github.com/TUMFTM/teleoperated_driving/stargazers)  
     🏎️ *Full-stack teleoperation software for automated vehicles from Technical University of Munich (IEEE IV 2025).*  
     Supports both Direct Remote Driving (steering wheel and pedals) and Remote Assistance (trajectory guidance), with native ROS 2 and Autoware interfaces.
 
-16. **[Phantom Bridge Client](https://github.com/PhantomCybernetics/phntm_bridge_client)** [![GitHub stars](https://img.shields.io/github/stars/PhantomCybernetics/phntm_bridge_client?style=social&color=white)](https://github.com/PhantomCybernetics/phntm_bridge_client/stargazers)  
+16. **[Phantom Bridge Client](https://github.com/PhantomCybernetics/phntm_bridge_client)** [![GitHub_Stars](https://img.shields.io/github/stars/PhantomCybernetics/phntm_bridge_client?style=social&color=white)](https://github.com/PhantomCybernetics/phntm_bridge_client/stargazers)  
     ⚡ *High-performance WebRTC + Socket.io bridge for ROS 2 teleoperation and real-time streaming.*  
     Achieves **~5-10ms RTT over local Wi-Fi** and ~60ms over 4G LTE with H.264 hardware acceleration (CUDA/VAAPI) and P2P/TURN connectivity.
 
-17. **[TELECARLA](https://github.com/hofbi/telecarla)** [![GitHub stars](https://img.shields.io/github/stars/hofbi/telecarla?style=social&color=white)](https://github.com/hofbi/telecarla/stargazers)  
+17. **[TELECARLA](https://github.com/hofbi/telecarla)** [![GitHub_Stars](https://img.shields.io/github/stars/hofbi/telecarla?style=social&color=white)](https://github.com/hofbi/telecarla/stargazers)  
     🚗 *Open-source teleoperated driving extension for the CARLA autonomous vehicle simulator.*  
     Integrates commercial force-feedback gaming steering wheels, multi-camera displays, and realistic network latency simulation for AV teleoperation research.
 
-18. **[lerobot_franka_teleop](https://github.com/Shenzhaolong1330/lerobot_franka_teleop)** [![GitHub stars](https://img.shields.io/github/stars/Shenzhaolong1330/lerobot_franka_teleop?style=social&color=white)](https://github.com/Shenzhaolong1330/lerobot_franka_teleop/stargazers)  
+18. **[lerobot_franka_teleop](https://github.com/Shenzhaolong1330/lerobot_franka_teleop)** [![GitHub_Stars](https://img.shields.io/github/stars/Shenzhaolong1330/lerobot_franka_teleop?style=social&color=white)](https://github.com/Shenzhaolong1330/lerobot_franka_teleop/stargazers)  
     🦾 *Teleoperation framework for Franka Emika Research 3 robotic arms built on Hugging Face LeRobot.*  
     Supports joint-level master-slave isomorphic mapping and 6-DoF end-effector pose teleoperation for manipulation dataset recording.
 
-19. **[OpenTera](https://github.com/introlab/opentera)** [![GitHub stars](https://img.shields.io/github/stars/introlab/opentera?style=social&color=white)](https://github.com/introlab/opentera/stargazers)  
+19. **[OpenTera](https://github.com/introlab/opentera)** [![GitHub_Stars](https://img.shields.io/github/stars/introlab/opentera?style=social&color=white)](https://github.com/introlab/opentera/stargazers)  
     🏥 *Open tele-rehabilitation and telerobotics framework with WebRTC signaling.*  
     Provides `opentera-webrtc-ros` and a modular Vue.js frontend for remote mobile robot teleoperation, audio/video conferencing, and rehabilitation sessions.
 
-20. **[XR-Robot-Teleop-Server](https://github.com/yunho-c/XR-Robot-Teleop-Server)** [![GitHub stars](https://img.shields.io/github/stars/yunho-c/XR-Robot-Teleop-Server?style=social&color=white)](https://github.com/yunho-c/XR-Robot-Teleop-Server/stargazers)  
+20. **[XR-Robot-Teleop-Server](https://github.com/yunho-c/XR-Robot-Teleop-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/yunho-c/XR-Robot-Teleop-Server?style=social&color=white)](https://github.com/yunho-c/XR-Robot-Teleop-Server/stargazers)  
     🌐 *High-performance Python server for streaming 360° panoramic video to XR headsets (Quest 3, Vision Pro).*  
     Built with aiortc and FastAPI for low-latency WebRTC streaming, featuring full-body/hand skeleton processing and head-orientation visual reprojection.
 
-21. **[3D Mouse HID](https://github.com/hcrlab/3dmouse-hid)** [![GitHub stars](https://img.shields.io/github/stars/hcrlab/3dmouse-hid?style=social&color=white)](https://github.com/hcrlab/3dmouse-hid/stargazers)  
+21. **[3D Mouse HID](https://github.com/hcrlab/3dmouse-hid)** [![GitHub_Stars](https://img.shields.io/github/stars/hcrlab/3dmouse-hid?style=social&color=white)](https://github.com/hcrlab/3dmouse-hid/stargazers)  
     🖱️ *Precision filtering and visualization driver for 3Dconnexion SpaceMouse robot control.*  
     Provides deadband smoothing and visual 6-DoF coordinate indicators for teleoperating robotic arm end-effectors.
 
-22. **[helyOS Core](https://github.com/helyOSFramework/helyos_core)** [![GitHub stars](https://img.shields.io/github/stars/helyOSFramework/helyos_core?style=social&color=white)](https://github.com/helyOSFramework/helyos_core/stargazers)  
+22. **[helyOS Core](https://github.com/helyOSFramework/helyos_core)** [![GitHub_Stars](https://img.shields.io/github/stars/helyOSFramework/helyos_core?style=social&color=white)](https://github.com/helyOSFramework/helyos_core/stargazers)  
     🏰 *Fraunhofer IVI's open-source control tower framework for autonomous mobile machines.*  
     Event-driven microservice architecture for vehicle mission orchestration, path planning, collision avoidance, and operator teleoperation intervention.
 
@@ -205,7 +205,7 @@ Contributions are warmly welcomed! Help keep this repository the primary referen
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b feature/new-teleop-tool`
 3. ✏️ **Add your entry** under the appropriate section following the established format:
-   - Include: Name, official link, GitHub star badge (if open-source), 1–2 sentence description.
+   - Include: Name, official link, GitHub Stars_Badge (if open-source), 1–2 sentence description.
    - For SaaS tools: ensure pricing and free trial details are explicitly verifiable.
 4. 🚀 **Commit your changes**: `git commit -m 'Add awesome teleoperation tool'`
 5. 📬 **Open a Pull Request** with a brief summary of the project.
