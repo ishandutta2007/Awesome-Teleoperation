@@ -73,7 +73,7 @@ A comprehensive comparison of leading SaaS products and enterprise platforms for
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted teleoperation, leader-follower master-slave systems, VR/XR interfaces, and low-latency video streaming pipelines. **Sorted descending by GitHub Stars_Count**:
+Curated open-source projects for self-hosted teleoperation, leader-follower master-slave systems, VR/XR interfaces, and low-latency video streaming pipelines. **Sorted descending by GitHub_Stars_Count**:
 
 1. **[LeRobot (Hugging Face)](https://github.com/huggingface/lerobot)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social&color=white)](https://github.com/huggingface/lerobot/stargazers)  
    🤖 *State-of-the-art open-source library for real-world robotics and imitation learning by Hugging Face.*  
@@ -205,7 +205,7 @@ Contributions are warmly welcomed! Help keep this repository the primary referen
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b feature/new-teleop-tool`
 3. ✏️ **Add your entry** under the appropriate section following the established format:
-   - Include: Name, official link, GitHub Stars_Badge (if open-source), 1–2 sentence description.
+   - Include: Name, official link, GitHub_Stars_Badge (if open-source), 1–2 sentence description.
    - For SaaS tools: ensure pricing and free trial details are explicitly verifiable.
 4. 🚀 **Commit your changes**: `git commit -m 'Add awesome teleoperation tool'`
 5. 📬 **Open a Pull Request** with a brief summary of the project.
